@@ -1,0 +1,28 @@
+# main links
+#in masthead.html
+main:
+  # - title: Calls
+  #   subnav: calls
+
+  - title: Committee
+    subnav: committees
+
+  # - title: "Sponsors"
+  #   url: /sponsors/
+
+  - title: "About COLING"
+    url: /about/
+
+# calls:
+#   - title: "Call for"
+#     children:
+#       - title: "Main Conference Papers"
+#         url: /calls/main_conference_papers/
+
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /committees/organization/
+      # - title: "Senior Program Committee"
+      #   url: /committees/program/

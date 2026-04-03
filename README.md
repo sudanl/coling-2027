@@ -1,0 +1,50 @@
+# COLING 2027 official website
+
+This is the code for the official website for the 32nd International Conference on Computational Linguistics (COLING 2027), based on the code for [ACL 2024](https://github.com/acl-org/acl-2024/).
+
+It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+
+# Building Locally
+
+## Using Ruby
+
+1. Install bundler: `sudo gem install bundler`. Make sure you have Ruby and Bundler versions > 2.4.
+
+2. Clone this repository.
+
+3. Run the gems needed by this repository: `sudo bundle install`.
+
+4. Start the jekyll server by running `bundle exec jekyll serve`.
+
+5. You can then see the website at http://localhost:4000.
+
+## Using Docker
+
+```
+docker build -t coling/website .
+docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll coling/website
+```
+
+# License
+
+The MIT License (MIT)
+
+Copyright (c) 2027 International Conference on Computational Linguistics (COLING)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

@@ -1,0 +1,388 @@
+/* ==========================================================================
+   CONFERENCE SCHEDULE
+   ========================================================================== */
+
+div.schedule {
+    max-width: 100%;
+    padding: 0 1em;
+}
+
+div#generatePDF {
+    padding-top: 20px;
+    max-width: 100%;
+}
+
+#hidden-program-table {
+    display: none;
+}
+
+a.session-selector {
+    color: #fff;
+    background-color: $success-color;
+    font-size: $type-size-10;
+    padding: 0.35em 0.45em;
+    font-family: $sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: $border-radius;
+    @include breakpoint($medium) {
+        font-size: $type-size-7;
+    }
+    &.disabled {
+        background-color: $light-gray;
+        cursor: not-allowed;
+        /* filter: alpha(opacity=40); */
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        opacity: 0.40;
+    }
+}
+
+a.session-deselector {
+    color: #fff;
+    background-color: $danger-color;
+    font-size: $type-size-10;
+    padding: 0.35em 0.45em;
+    font-family: $sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: $border-radius;
+    @include breakpoint($medium) {
+        font-size: $type-size-7;
+    }
+    &.disabled {
+        background-color: $light-gray;
+        cursor: not-allowed;
+        /* filter: alpha(opacity=40); */
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        opacity: 0.40;
+    }
+}
+
+div#generatePDFForm {
+    width: percentage(25/25);
+    padding: 0.5em;
+    margin-top: 2em;
+    text-align: center;
+    vertical-align: middle;
+    font-size: $type-size-6;
+    background-color: $background-color;
+
+    a#generatePDFButton {
+        margin-top: .5em;
+        font-size: $type-size-5;
+
+        @include breakpoint($medium) {
+            font-size: $type-size-4;
+        }
+    }
+
+    input#includePlenaryCheckBox {
+        color: #f2f2f2;
+        width: 16px;
+        height: 16px;
+    }
+
+    label#checkBoxLabel {
+        font-size: $type-size-5;
+        display: inline-block;
+        vertical-align: bottom;
+    }
+}
+
+div.day {
+    padding: 0.5em;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: middle;
+    font-size: $type-size-4;
+    color: white;
+    background-color: $primary-color;
+    border: 1px solid black;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+div#introParagraph {
+    font-size: $type-size-5-half;
+    padding: 1.5em;
+    i.fa-award {
+        color: #ee5f5b;
+    }
+}
+
+div#popupInstructionsDiv {
+    display: none;
+    font-size: $type-size-5-half;
+    text-align: left;
+    padding: 0 2em;
+    ul {
+        padding-left: 15px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+}
+
+.alertify div#popupInstructionsDiv {
+    display: block;
+}
+
+div.session-box {
+    overflow: hidden;
+    border: 2px solid $light-gray;
+    margin-top: .6em;
+    margin-bottom: .6em;
+
+    display: flex;
+    flex-direction: column;
+    @include breakpoint($medium) {
+        flex-direction: row;
+    }
+    flex-wrap: wrap;
+}
+
+div.session-header {
+    font-size: $type-size-5;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    padding: .5em;
+    border-bottom: 2px solid $light-gray;
+    background-color: $light-gray;
+    width: 100%;
+}
+
+div.session {
+    display: inline-block;
+    padding: 0.5em;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background-color: $background-color;
+
+    &.session-tutorials, &.session-workshops, &.session-plenary {
+        width: percentage(25/25);
+        border-top: 2px solid $light-gray;
+        border-left: 2px solid $light-gray;
+        border-bottom: 2px solid $light-gray;
+        border-right: 2px solid $light-gray;
+        margin-top: .4em;
+        margin-bottom: .4em;
+    }
+
+    &.session-posters {
+        border-top: 1px solid $light-gray;
+        width: percentage(25/25);
+    }
+
+    &.session-papers-best {
+        border: 2px solid $light-gray;
+        margin-top: .4em;
+        margin-bottom: .4em;
+    }
+
+    &.session-papers {
+        border-top: 1px solid $light-gray;
+        width: 100%;
+        @include breakpoint($x-large) {
+            border-left: 1px solid $light-gray;
+            flex: 1 0 0;
+        }
+    }
+    &.session-papers:nth-child(2) {
+        border-left: none;
+    }
+
+    .session-title {
+        font-size: $type-size-5;
+        color: $text-color;
+        text-decoration: none;
+    }
+
+    .session-time {
+        display: block;
+        font-size: $type-size-5-half;
+        font-style: italic;
+    }
+
+    &.session-break {
+        border: none;
+        font-style: italic;
+        margin-top: .4em;
+        margin-bottom: .4em;
+    }
+
+    hr.detail-separator {
+        border: 0;
+        height: 1px;
+        background: $light-gray;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .session-abstract {
+        font-size: $type-size-5;
+    }
+
+    .tutorial-table, .workshop-table {
+        border: 1px;
+        font-size: $type-size-5;
+        td {
+            border: 0px;
+        }
+    }
+
+    .poster-table {
+        border: 1px;
+        font-size: $type-size-6;
+        td {
+            border: 0px;
+        }
+    }
+
+    .paper-table {
+        border: 0px;
+        font-size: $type-size-6;
+        td {
+            border: 0px;
+        }
+    }
+
+    .poster-type {
+        font-weight: bold;
+        color: #791672;
+    }
+
+    .tutorial-title, .workshop-title {
+        font-size: $type-size-6;
+        text-decoration: none;
+    }
+
+    .paper-title, .poster-title  {
+        font-weight: bold;
+    }
+
+    .session-location, .session-external-location {
+        display: block;
+        font-size: $type-size-5-half;
+        font-style: italic;
+    }
+
+    .session-chair {
+        font-size: $type-size-5;
+        a {
+            color: black;
+        }
+    }
+
+    .info-button {
+        cursor: text;
+    }
+
+    .session-person {
+        font-size: $type-size-5-half;
+        a {
+            color: black;
+            text-decoration: none;
+        }
+    }
+
+    tr#tutorial, tr#paper, tr#poster, tr#workshop {
+        cursor: pointer;
+        background-color: $background-color;
+        font-size: $type-size-5;
+        &.selected {
+            background-color: $light-gray;
+        }
+        &:hover {
+            background-color: #F2F2CC;
+        }
+        &.conflicted {
+            background-color: #FF9999;
+        }
+        &.selected:hover {
+            background-color: #4EEE94;
+        }
+        &.conflicted.selected {
+            background-color: #4EEE94;
+        }
+    }
+
+    tr#tutorial {
+        a svg.video-icon {
+            cursor: pointer;
+
+        }
+    }
+
+    tr#best-paper {
+        svg.paper-icon, svg.video-icon {
+            cursor: pointer;
+        }
+    }
+
+    div.session-abstract {
+        p {
+            svg.slides-icon, svg.video-icon {
+                cursor: pointer;
+            }        
+        }
+    }
+
+    span.session-title {
+        svg.paper-icon, svg.video-icon {
+            cursor: pointer;            
+        }
+    }
+
+    td#paper-time {
+        font-size: $type-size-5;
+    }
+
+    .expander-wrapper {
+        cursor: pointer;
+    }
+    .expander-wrapper:hover .session-title {
+        text-decoration: underline;
+    }
+
+    #expander {
+        display: inline-block;
+        cursor: pointer;
+
+        margin-right: 5px;
+        width: 10px;
+        height: 10px;
+        @include breakpoint($medium) {
+            margin-right: 10px;
+            width: 12px;
+            height: 12px;
+        }
+        background: linear-gradient(to bottom, transparent 35%, $dark-gray 35%, $dark-gray 65%,  transparent 65%),
+        linear-gradient(to right, transparent 35%, $dark-gray 35%, $dark-gray 65%, transparent 65%);
+        border: 1px solid $gray;
+    }
+
+    #expander.expanded {
+        background: linear-gradient(to bottom, transparent 35%, $dark-gray 35%, $dark-gray 65%,  transparent 65%);
+    }
+
+    i.fa-award {
+        color: #ee5f5b;
+    }
+
+    i.fa-file-pdf:after {
+        content: "PDF";
+        font-family: $sans-serif;
+        margin-left: .2em;
+        text-decoration: underline;
+    }
+
+    i.icon-map {
+        cursor: pointer;
+    }
+}
