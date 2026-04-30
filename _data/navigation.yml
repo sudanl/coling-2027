@@ -7,8 +7,8 @@ main:
   - title: Committee
     subnav: committees
 
-  # - title: "Sponsors"
-  #   url: /sponsors/
+  - title: "Sponsors"
+    url: /sponsors/
 
   - title: "About COLING"
     url: /about/
