@@ -1,7 +1,7 @@
 <div class="bio-box" itemscope itemtype="https://schema.org/Person" style="width: 100%; display: table;">
     <div style="display: table-row;">
         <div class="author__avatar" style="display: table-cell; padding-bottom: 5px; width: 110px; vertical-align: top;">
-          <img src="{{ include.picture | relative_url }}" alt="{{ include.name }}" itemprop="image" style="width: 90px; height: 90px; max-width: 90px; min-width: 90px; border-radius: 50%; object-fit: cover; object-position: center top; box-sizing: content-box; padding: 4px; border: 1px solid #cccccc; background: #ffffff;">
+          <img src="{{ include.picture | relative_url }}" alt="{{ include.name }}" itemprop="image" style="width: 90px; height: 90px; max-width: 90px; min-width: 90px; border-radius: 50%; object-fit: cover; object-position: {% if include.pos and include.pos != '' %}{{ include.pos }}{% else %}center top{% endif %}; box-sizing: content-box; padding: 4px; border: 1px solid #cccccc; background: #ffffff;">
         </div>
         <div class="author__content" style="display: table-cell; padding-left: 1em;">
           <h3 class="author__name" itemprop="name">

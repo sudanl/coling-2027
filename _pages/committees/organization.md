@@ -6,6 +6,25 @@ permalink: /committees/organization/
 sidebar:
     nav: "committees"
 ---
+<h2>General Chairs</h2>
+
+{% include bio-box
+   name="Chengqing Zong"
+   picture="/assets/images/committee/Chengqing_Zong.jpeg"
+   site=""
+   institution="Chinese Academy of Sciences, China"
+   pos="center 38%"
+   email=""
+%}
+
+{% include bio-box
+   name="Katrin E. Erk"
+   picture="/assets/images/committee/Katrin_E_Erk.jpg"
+   site=""
+   institution="University of Massachusetts Amherst, USA"
+   email=""
+%}
+
 <h2>Program Co-Chairs</h2>
 
 {% include bio-box
@@ -37,6 +56,48 @@ sidebar:
    picture="/assets/images/committee/Joakim_Nivre.jpg"
    site=""
    institution="Uppsala University, Sweden"
+   email=""
+%}
+
+<h2>Local Organization</h2>
+
+{% include bio-box
+   name="Derek F. Wong"
+   picture="/assets/images/committee/Derek_F_Wong.png"
+   site=""
+   institution="University of Macau, China"
+   email=""
+%}
+
+{% include bio-box
+   name="Ryan U"
+   picture="/assets/images/committee/Ryan_U.png"
+   site=""
+   institution="University of Macau, China"
+   email=""
+%}
+
+{% include bio-box
+   name="Steven Morad"
+   picture="/assets/images/committee/Steven_Morad.png"
+   site=""
+   institution="University of Macau, China"
+   email=""
+%}
+
+{% include bio-box
+   name="Zhedong Zheng"
+   picture="/assets/images/committee/Zhedong_Zheng.png"
+   site=""
+   institution="University of Macau, China"
+   email=""
+%}
+
+{% include bio-box
+   name="Joseph Paul Dexter"
+   picture="/assets/images/committee/Joseph_Paul_Dexter.jpeg"
+   site=""
+   institution="University of Macau, China"
    email=""
 %}
 
