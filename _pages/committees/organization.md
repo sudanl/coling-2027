@@ -247,7 +247,8 @@ sidebar:
    name="Pei Ke"
    picture="/assets/images/committee/Pei_Ke.png"
    site=""
-   institution="University of Electronic Science and Technology of China"
+   institution="University of Electronic Science and Technology of China, China"
+   pos="center 45%"
    email=""
 %}
 
