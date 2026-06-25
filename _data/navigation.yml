@@ -4,6 +4,9 @@ main:
   # - title: Calls
   #   subnav: calls
 
+  - title: "Participants Info"
+    url: /participants-info/
+
   - title: Committee
     subnav: committees
 
@@ -26,3 +29,15 @@ committees:
         url: /committees/organization/
       # - title: "Senior Program Committee"
       #   url: /committees/program/
+
+participants-info:
+  - title: Participants Info
+    children:
+      - title: Venue
+        url: /participants-info/#venue
+      - title: Hotel
+        url: /participants-info/#hotel
+      - title: Transport
+        url: /participants-info/#transport
+      - title: What to do in Macau
+        url: /participants-info/#what-to-do-in-macau
