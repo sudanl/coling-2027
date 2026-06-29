@@ -4,14 +4,14 @@ main:
   # - title: Calls
   #   subnav: calls
 
-  - title: "Participants Info"
-    url: /participants-info/
-
   - title: Committee
     subnav: committees
 
   - title: "Sponsors"
     url: /sponsors/
+
+  - title: "Participants Info"
+    url: /participants-info/
 
   - title: "About COLING"
     url: /about/
