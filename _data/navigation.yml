@@ -1,8 +1,8 @@
 # main links
 #in masthead.html
 main:
-  # - title: Calls
-  #   subnav: calls
+  - title: Calls
+    subnav: calls
 
   - title: Committee
     subnav: committees
@@ -16,11 +16,13 @@ main:
   - title: "About COLING"
     url: /about/
 
-# calls:
-#   - title: "Call for"
-#     children:
-#       - title: "Main Conference Papers"
-#         url: /calls/main_conference_papers/
+calls:
+  - title: "Call for"
+    children:
+      - title: Tutorials
+        url: /calls/tutorials/
+      - title: "Workshop Proposals"
+        url: /calls/workshop_proposals/
 
 committees:
   - title: Committees
