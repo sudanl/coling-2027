@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/macau/coling2027-banner-v2.png"
-  caption: ''
+  caption: ""
 excerpt: "Macau, China"
 secondary_excerpt: "May 9 -- 14, 2027<br>"
 ---
@@ -15,19 +15,23 @@ The 32nd International Conference on Computational Linguistics (COLING 2027) wil
 
 ## News
 
-**Website is under construction. Stay tuned for updates!**
-{: .text-center .notice--info}
+<!--**Website is under construction. Stay tuned for updates!**
+{: .text-center .notice--info}-->
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+July 29, 2026 | [First Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
 {: .news-table}
 
 ## Important Dates
 
-TBD | TBD | TBD
+ARR submission deadline | Monday | October 12, 2026
+Commitment after meta-reviews | Wednesday | December 23, 2026
+Notification of acceptance | Wednesday | February 10, 2027
+Main Conference | Sunday - Friday | May 9–14, 2027
 {: .dates-table}
 
 <style>
