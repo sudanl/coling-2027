@@ -226,10 +226,10 @@ sidebar:
 %}
 
 {% include bio-box
-   name="Hou Pong Chan (Ken)"
+   name="Hou Pong Chan"
    picture="/assets/images/committee/Hou_Pong_Chan.jpg"
    site=""
-   institution="Alibaba DAMO Academy, Singapore"
+   institution="University of Macau"
    email=""
 %}
 

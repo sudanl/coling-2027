@@ -27,7 +27,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     title:
 ---
 
-COLING 2027 extends its deepest gratitude to all its sponsors. We sincerely thank you in advance for your commitment to the NLP/CL community. If your organization would like to sponsor COLING 2027, please refer to our [Sponsorship Booklet](/assets/COLING%202027%20call%20for%20sponsorship.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact us at <a href="mailto:coling2027@gmail.com">coling2027@gmail.com</a>.
+COLING 2027 extends its deepest gratitude to all its sponsors. We sincerely thank you in advance for your commitment to the NLP/CL community. If your organization would like to sponsor COLING 2027, please refer to our [Sponsorship Booklet](/assets/COLING%202027%20call%20for%20sponsorship.pdf) for information about sponsorship rates and benefits. For any questions regarding sponsorship, please contact us at <a href="mailto:coling2027sponsorship@googlegroups.com">coling2027sponsorship@googlegroups.com</a>.
 
 <!-- Sponsorship details will be announced soon. -->
 
