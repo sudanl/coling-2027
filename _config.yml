@@ -22,7 +22,7 @@ locale                   : "en-US"
 title                    : "COLING 2027"
 title_separator          : "-"
 name                     : "COLING"
-description              : "Official website for the 32nd International Conference on Computational Linguistics (COLING 2027)"
+description              : "Official website for the 32nd International Conference on Computational Linguistics (COLING 2027), May 9-14, 2027, Macau, China."
 url                      : "https://2027.coling-iccl.org"
 baseurl                  : ""
 repository               : "" # TBD
@@ -85,12 +85,12 @@ naver_site_verification  :
 #   username               : naaclhlt
 #   app_id                 :
 #   publisher              :
-# og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/macau/coling2027-banner-v2.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-# social:
-#   type                   : # Person or Organization (defaults to Person)
-#   name                   : # If the user or organization name differs from the site's name
+social:
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : "COLING 2027" # If the user or organization name differs from the site's name
 #   links: # An array of links to social media profiles
 
 # Analytics

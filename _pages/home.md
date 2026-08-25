@@ -1,5 +1,6 @@
 ---
 title: "The 32nd International Conference on Computational Linguistics"
+description: "The 32nd International Conference on Computational Linguistics (COLING 2027) will take place in Macau, China, from May 9 to 14, 2027."
 layout: splash
 permalink: /
 header:
