@@ -16,6 +16,9 @@ main:
   - title: "About COLING"
     url: /about/
 
+  - title: "FAQ"
+    url: /faq/
+
 calls:
   - title: "Call for"
     children:
