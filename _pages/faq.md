@@ -18,17 +18,21 @@ This new policy arose because we have two conferences using the same ARR cycle a
 This policy is not an allowance of dual submission because PCs reserve the right to not consider papers that indicate their conference as a secondary option. Note that the standard dual submission policy stands: authors are not allowed to commit to COLING/NAACL while also submitting to another conference (e.g. ICML) at the same time; doing so is grounds for desk rejection.
 
 **How do the NAACL and COLING Program Chairs (PCs) handle papers that indicate a secondary option?**
+
 After the commitment deadline, the NAACL PCs will decide whether to consider papers that choose COLING as primary conference and NAACL as a secondary option; similarly, COLING PCs will decide whether to consider papers that choose NAACL as primary conference and COLING as a secondary option. After this decision, all papers to be considered will be given to Senior Area Chairs (SACs) to make acceptance recommendations. If a paper is recommended for acceptance by SACs for both conferences, the final acceptance will come from the one indicated as the primary conference. If a paper is accepted to one conference but not the other, the final acceptance will come from the one that accepts it.
 
 **In general, how should I decide what should be my primary conference?**
+
 Authors should make their primary conference decision based on their own true preference, considering factors such as paper fit and venue location/dates. In other words, if one truly wants to go to NAACL, then indicate NAACL as the primary conference; if one truly wants to go to COLING, then indicate COLING as the primary conference. There is no guarantee that the secondary option will be considered.
 
 Acceptances at NAACL could be either in the Main Conference proceedings or Findings. Acceptances at COLING are in the Main Conference proceedings. Authors who prefer a Main Conference paper over a Findings paper should think carefully about choosing NAACL over COLING as the primary conference.
 
 **Is there any advantage or disadvantage of indicating a secondary option?**
+
 There is no advantage nor disadvantage. Whether a paper indicates a secondary option or not has no ramification on the acceptance likelihood at the primary conference: the PCs and SACs will consider all papers equally. Authors should indicate a secondary option only if they are sincerely and in good faith willing to attend either conference.
 
 **If I indicate a secondary option, is there the chance of acceptance to both conferences?**
+
 No. As an example, suppose an author chooses NAACL as primary conference and COLING as secondary option. The author will then receive one of the following mutually exclusive responses: a NAACL main conference acceptance, a NAACL findings acceptance, a COLING main conference acceptance, or rejection at both conferences. In other words, under no circumstances would a paper receive acceptance letters from both conferences simultaneously.
 
 **Can I add a secondary option later than the commitment date?**
