@@ -60,7 +60,7 @@ COLING 2027 invites the submission of long papers of up to eight (8) pages and s
 - Katrin Erk, University of Massachusetts Amherst
 - Chengqing Zong, Institute of Automation, Chinese Academy of Sciences
 
-# Program Chairs
+## Program Chairs
 
 - Minlie Huang, Tsinghua University
 - Joakim Nivre, Uppsala University
