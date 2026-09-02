@@ -9,7 +9,7 @@ toc_sticky: true
 
 ## Sharing the ARR Cycle with NAACL
 
-*For authors*
+_For authors_
 
 **Why are you doing this secondary option? Isn’t this similar to dual submission?**
 
@@ -39,13 +39,13 @@ No. As an example, suppose an author chooses NAACL as primary conference and COL
 
 No.
 
-**What about the “preferred venue” in the ARR October 2026 submission form? Can it differ from what I choose for commitment?&&
+**What about the “preferred venue” in the ARR October 2026 submission form? Can it differ from what I choose for commitment?**
 
-Note that the “preferred venue” specified in your ARR October 2026 submission form is non-binding and used only to help calculate conference acceptance rates. You may choose a different venue as your “primary conference” in the Commitment phase.  
+Note that the “preferred venue” specified in your ARR October 2026 submission form is non-binding and used only to help calculate conference acceptance rates. You may choose a different venue as your “primary conference” in the Commitment phase.
 
 ---
 
-*For Reviewers, Area Chairs, and Senior Area Chairs*
+_For Reviewers, Area Chairs, and Senior Area Chairs_
 
 **As a reviewer, does the shared ARR cycle and new commitment policy impact my work in writing reviews?**
 
