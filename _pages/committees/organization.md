@@ -125,7 +125,7 @@ sidebar:
    name="Michael Roth"
    picture="/assets/images/committee/Michael_Roth.jpg"
    site=""
-   institution="University of Stuttgart, Germany"
+   institution="University of Technology Nuremberg, Germany"
    email=""
 %}
 
