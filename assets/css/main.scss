@@ -6,3 +6,13 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Enlarge the masthead logo visually without making the masthead taller:
+   transform does not affect layout, so the bar height stays the same. */
+.site-logo img {
+  transform: scale(1.5);
+  transform-origin: left center;
+}
+.site-logo {
+  margin-right: 1.5rem;
+}
