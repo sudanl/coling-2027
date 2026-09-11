@@ -102,8 +102,8 @@ The Portuguese arrived and settled in Macao in the mid 16th Century. Thus, the c
 Macao is eight hours ahead of Greenwich Mean Time (GMT+8). Chinese and Portuguese are the official languages while Cantonese is most widely spoken. English is generally used in trade, tourism and commerce.
 
 <figure class="half">
-  <img src="/assets/images/participants/Macau_1.png" alt="Macau scenery">
-  <img src="/assets/images/participants/Macau_2.png" alt="Macau landmarks">
+  <img src="/assets/images/participants/Macau_1.jpg" alt="Macau scenery">
+  <img src="/assets/images/participants/Macau_2.jpg" alt="Macau landmarks">
 </figure>
 
 ### Currency
@@ -113,8 +113,8 @@ Macao is eight hours ahead of Greenwich Mean Time (GMT+8). Chinese and Portugues
 - UnionPay, Visa, Mastercard, AmEx and JCB are widely accepted. Alipay is becoming common.
 
 <figure class="half">
-  <img src="/assets/images/participants/Currency_1.png" alt="Macau currency">
-  <img src="/assets/images/participants/Currency_2.png" alt="Currency exchange">
+  <img src="/assets/images/participants/Currency_1.jpg" alt="Macau currency">
+  <img src="/assets/images/participants/Currency_2.jpg" alt="Currency exchange">
 </figure>
 
 ### Communication

@@ -71,7 +71,7 @@ sidebar:
 
 {% include bio-box
    name="Ryan U"
-   picture="/assets/images/committee/Ryan_U.png"
+   picture="/assets/images/committee/Ryan_U.jpg"
    site=""
    institution="University of Macau, China"
    email=""
@@ -79,7 +79,7 @@ sidebar:
 
 {% include bio-box
    name="Steven Morad"
-   picture="/assets/images/committee/Steven_Morad.png"
+   picture="/assets/images/committee/Steven_Morad.jpg"
    site=""
    institution="University of Macau, China"
    email=""
@@ -87,7 +87,7 @@ sidebar:
 
 {% include bio-box
    name="Zhedong Zheng"
-   picture="/assets/images/committee/Zhedong_Zheng.png"
+   picture="/assets/images/committee/Zhedong_Zheng.jpg"
    site=""
    institution="University of Macau, China"
    email=""
@@ -219,7 +219,7 @@ sidebar:
 
 {% include bio-box
    name="Ming Jiang"
-   picture="/assets/images/committee/Ming_Jiang.png"
+   picture="/assets/images/committee/Ming_Jiang.jpg"
    site=""
    institution="University of Wisconsin-Madison, USA"
    email=""
@@ -254,7 +254,7 @@ sidebar:
 
 {% include bio-box
    name="Meriem Beloucif"
-   picture="/assets/images/committee/Meriem_Beloucif.png"
+   picture="/assets/images/committee/Meriem_Beloucif.jpg"
    site=""
    institution="Uppsala University, Sweden"
    email=""
@@ -354,7 +354,7 @@ sidebar:
 
 {% include bio-box
    name="Junjie Hu"
-   picture="/assets/images/committee/Junjie_HU.png"
+   picture="/assets/images/committee/Junjie_HU.jpg"
    site=""
    institution="University of Wisconsin-Madison, USA"
    email=""
@@ -362,7 +362,7 @@ sidebar:
 
 {% include bio-box
    name="Wenpeng Lu"
-   picture="/assets/images/committee/Wenpeng_LU.png"
+   picture="/assets/images/committee/Wenpeng_LU.jpg"
    site=""
    institution="Qilu University of Technology, China"
    email=""

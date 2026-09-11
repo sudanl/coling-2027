@@ -85,7 +85,7 @@ naver_site_verification  :
 #   username               : naaclhlt
 #   app_id                 :
 #   publisher              :
-og_image                 : "/assets/images/macau/coling2027-banner-v2.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/macau/coling2027-banner-v2.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

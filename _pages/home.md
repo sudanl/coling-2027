@@ -4,7 +4,7 @@ description: "The 32nd International Conference on Computational Linguistics (CO
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/macau/coling2027-banner-v2.png"
+  overlay_image: "/assets/images/macau/coling2027-banner-v2.jpg"
   caption: ""
 excerpt: "Macau, China"
 secondary_excerpt: "May 9 -- 14, 2027<br>"
