@@ -24,6 +24,7 @@ The 32nd International Conference on Computational Linguistics (COLING 2027) wil
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+Sep. 15, 2026 | [Final Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
 July 29, 2026 | [First Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
 {: .news-table}
 
@@ -32,6 +33,7 @@ July 29, 2026 | [First Call for Main Conference Papers](/calls/main_conference_p
 ARR submission deadline | Monday | October 12, 2026
 Commitment after meta-reviews | Wednesday | December 23, 2026
 Notification of acceptance | Wednesday | February 10, 2027
+Virtual Conference | Thursday - Friday | May 6-7, 2027
 Main Conference | Sunday - Friday | May 9–14, 2027
 {: .dates-table}
 
