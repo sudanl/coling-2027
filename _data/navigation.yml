@@ -1,6 +1,9 @@
 # main links
 #in masthead.html
 main:
+  - title: "Call for Papers"
+    url: /calls/main_conference_papers/
+
   - title: Calls
     subnav: calls
 
