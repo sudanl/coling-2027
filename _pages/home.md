@@ -25,6 +25,9 @@ The 32nd International Conference on Computational Linguistics (COLING 2027) wil
 .news-table a { color: #d40000; font-weight: bold; }
 </style>
 
+September 17, 2026 | [Call for Industry Track Papers](/calls/industry_track/) is posted.
+{: .news-table}
+
 September 10, 2026 | [Call for Tutorial Proposals](/calls/tutorials/) is posted.
 {: .news-table}
 

@@ -24,6 +24,8 @@ calls:
     children:
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
+      - title: "Industry Track Papers"
+        url: /calls/industry_track/
       - title: Tutorials
         url: /calls/tutorials/
       - title: "Workshop Proposals"
