@@ -6,11 +6,6 @@ permalink: /
 header:
   overlay_image: "/assets/images/macau/coling2027-banner-v2.jpg"
   caption: ""
-  actions:
-    - label: "Call for Papers &mdash; deadline Oct 12, 2026"
-      url: "/calls/main_conference_papers/"
-    - label: "Call for Tutorials &mdash; deadline Oct 2, 2026"
-      url: "/calls/tutorials/"
 excerpt: "Macau, China"
 secondary_excerpt: "May 9 -- 14, 2027<br>"
 ---
@@ -26,16 +21,17 @@ The 32nd International Conference on Computational Linguistics (COLING 2027) wil
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed; }
-.news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 12em; white-space: nowrap; }
+.news-table a { color: #d40000; font-weight: bold; }
 </style>
 
-Sep. 15, 2026 | [Final Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
+September 10, 2026 | [Call for Tutorial Proposals](/calls/tutorials/) is posted.
 {: .news-table}
 
-September 10, 2026 | [Joint Call for Tutorial Proposals (EACL/NAACL/COLING) 2027](/calls/tutorials/) is posted.
+July 29, 2026 | [Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
 {: .news-table}
 
-July 29, 2026 | [First Call for Main Conference Papers](/calls/main_conference_papers/) is posted.
+July 28, 2026 | [Call for Workshop Proposals](/calls/workshop_proposals/) is posted.
 {: .news-table}
 
 ## Important Dates
