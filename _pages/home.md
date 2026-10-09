@@ -25,6 +25,9 @@ The 32nd International Conference on Computational Linguistics (COLING 2027) wil
 .news-table a { color: #d40000; font-weight: bold; }
 </style>
 
+October 9, 2026 | **Submissions closing soon!** Deadline is October 12, 11:59pm AOE. Portal: [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October)
+{: .news-table}
+
 September 17, 2026 | [Call for Industry Track Papers](/calls/industry_track/) is posted.
 {: .news-table}
 
