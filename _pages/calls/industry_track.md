@@ -18,6 +18,10 @@ We are soliciting contributions that explore novel ideas and implementations acr
 ## Important Dates
 
 Paper submission deadline | November 30, 2026
+Paper reviewing | January 4 – February 3, 2027
+Author - Reviewer rebuttal | February 10 – 15, 2027
+Reviewer - AC discussion | February 15 – 19, 2027
+Meta reviews ready | March 1, 2027
 Notification of acceptance | March 15, 2027
 Camera-ready version of papers due | TBD
 Main conference, including industry track | May 9 – 14, 2027
