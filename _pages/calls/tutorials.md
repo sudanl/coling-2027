@@ -25,6 +25,8 @@ Tutorials will be held at one of the following conference venues:
 - **COLING 2027** (the 32nd International Conference on Computational Linguistics), which will be held in Macau, China, from May 9–14, 2027.
 - **NAACL 2027** (the 2027 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics), which will be held as a hybrid conference and physically held in San Francisco, California, United States from June 1–5, 2027.
 
+Tutorials at COLING 2027 will be held on **May 9, 2027**.
+
 Other calls will be made in the fall for tutorials colocated with conferences later in the year (e.g., ACL, EMNLP, and AACL).
 
 ## Important Dates

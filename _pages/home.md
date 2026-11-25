@@ -49,7 +49,9 @@ ARR submission deadline | Monday | October 12, 2026
 Commitment after meta-reviews | Wednesday | December 23, 2026
 Notification of acceptance | Wednesday | February 10, 2027
 Virtual Conference | Thursday - Friday | May 6-7, 2027
-Main Conference | Sunday - Friday | May 9–14, 2027
+Tutorials | Sunday | May 9, 2027
+Main Conference | Monday - Wednesday | May 10–12, 2027
+Workshops | Thursday - Friday | May 13–14, 2027
 {: .dates-table}
 
 <style>
